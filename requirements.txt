@@ -2,12 +2,12 @@ streamlit
 numpy
 pandas
 scikit-learn
-tensorflow
+tensorflow==2.15.0
+keras==2.15.0
 torch
 transformers
 plotly
 nltk
-keras
 protobuf
 sentencepiece
 safetensors
